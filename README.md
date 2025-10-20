@@ -136,11 +136,3 @@ Verifique a pasta `src/test` para exemplos de testes unitários e de integraçã
 Coloque aqui a licença do projeto (ex.: MIT). Se você não quiser uma licença, remova esta seção.
 
 ---
-
-Se quiser, eu posso:
-
-* ajustar o README para descrever os pacotes e classes reais do seu código (posso varrer o `src/` e inserir trechos automáticos),
-* adicionar badges (build, license, coverage),
-* gerar um `CONTRIBUTING.md` ou `ISSUE_TEMPLATE`.
-
-Diga qual dessas opções prefere e eu atualizo o README.
